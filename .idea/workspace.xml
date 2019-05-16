@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64050c1c-3fc3-48aa-b7be-11b1659b3ade" name="Default Changelist" comment="" />
+    <list default="true" id="64050c1c-3fc3-48aa-b7be-11b1659b3ade" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceGroupManagementTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="184">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -22,11 +24,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceManagementTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="414">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,7 +48,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="291" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
@@ -85,6 +90,36 @@
               <item name="IOT_Python_Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="IOT_Python_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="OceanConnect_Python_SDK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IOT_Python_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOT_Python_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="OceanConnect_Python_SDK" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IOT_Python_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOT_Python_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="OceanConnect_Python_SDK" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="huawei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IOT_Python_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOT_Python_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="OceanConnect_Python_SDK" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="huawei" type="462c0819:PsiDirectoryNode" />
+              <item name="iotplatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IOT_Python_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOT_Python_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="OceanConnect_Python_SDK" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="huawei" type="462c0819:PsiDirectoryNode" />
+              <item name="iotplatform" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,9 +279,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24237473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17973857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,20 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceManagementTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceUpgradeTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DataCollectionTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -401,8 +422,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceGroupManagementTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="184">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceUpgradeTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OceanConnect_Python_SDK/com/huawei/iotplatform/client/invokeapiTest/DeviceManagementTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
