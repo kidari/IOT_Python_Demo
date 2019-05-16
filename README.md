@@ -1,0 +1,3 @@
+# IOT_Python_Demo
+python IoT平台Demo
+messageHistroy查询时页码字符强转str
